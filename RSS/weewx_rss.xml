@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<rss version="2.0" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+   <channel>
+      <title>Beasley Neighborhood, Hamilton, Ontario, Canada, Weather Conditions</title>
+      <link></link>
+      <description>Current conditions, and daily, monthly, and yearly summaries</description>
+      <language>en-us</language>
+      <pubDate>Mon, 09 Jul 2018 00:40:00 EDT</pubDate>
+
+      <lastBuildDate>Mon, 09 Jul 2018 00:40:00 EDT</lastBuildDate>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+      <generator>weewx 3.8.0</generator>
+      <ttl>5.000000 minutes</ttl>
+      
+      <item>
+         <title>Weather Conditions at 07/09/2018 12:40:00 AM</title>
+         <link></link>
+         <description>
+           Outside temperature: 20.2&#176;C; 
+           Barometer: 1004.2 mbar; 
+           Wind: 0.0 m/s from    N/A; 
+           Rain rate: 0.0 mm/hr; 
+           Inside temperature: 30.8&#176;C
+         </description>
+         <pubDate>Mon, 09 Jul 2018 00:40:00 EDT</pubDate>
+	     <geo:lat>43.259612</geo:lat>
+    	 <geo:long>-79.861474</geo:long>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Time:                07/09/2018 12:40:00 AM<br/>
+             Outside Temperature: 20.2&#176;C<br/>
+             Inside Temperature:  30.8&#176;C<br/>
+             Wind Chill:          20.2&#176;C<br/>
+             Heat Index:          20.2&#176;C<br/>
+             Dewpoint:            10.0&#176;C<br/>
+             Humidity:            52%<br/>
+             Barometer:           1004.2 mbar<br/>
+             Wind:                0.0 m/s from    N/A<br/>
+             Rain Rate:           0.0 mm/hr<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Daily Weather Summary as of 07/09/2018 12:40:00 AM</title>
+         <link></link>
+         <description>
+	        Min outside temperature:    N/A at    N/A;
+         	Max outside temperature:    N/A at    N/A;
+	        Min inside temperature:     N/A at    N/A;
+	        Max inside temperature:     N/A at    N/A;
+	        Min barometer:              N/A at    N/A;
+	        Max barometer:              N/A at    N/A;
+            Max wind :                  N/A from    N/A at    N/A;
+            Rain today:                 N/A
+         </description>
+         <pubDate>Mon, 09 Jul 2018 00:40:00 EDT</pubDate>
+	     <geo:lat>43.259612</geo:lat>
+    	 <geo:long>-79.861474</geo:long>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Day:                     09 Jul 2018<br/>
+	         Min Outside Temperature:    N/A at    N/A<br/>
+	         Max Outside Temperature:    N/A at    N/A<br/>
+	         Min Inside Temperature:     N/A at    N/A<br/>
+	         Max Inside Temperature:     N/A at    N/A<br/>
+	         Min Barometer:              N/A at    N/A<br/>
+	         Max Barometer:              N/A at    N/A<br/>
+             Max Wind :                  N/A from    N/A at    N/A<br/>
+             Rain today:                 N/A<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Monthly Weather Summary as of 07/09/2018 12:40:00 AM</title>
+         <link>/month.html</link>
+         <description>
+	        Min outside temperature:    N/A at    N/A;
+         	Max outside temperature:    N/A at    N/A;
+	        Min inside temperature:     N/A at    N/A;
+	        Max inside temperature:     N/A at    N/A;
+	        Min barometer:              N/A at    N/A;
+	        Max barometer:              N/A at    N/A;
+            Max wind :                  N/A from    N/A at    N/A;
+            Rain total for month:       N/A
+         </description>
+         <pubDate>Mon, 09 Jul 2018 00:40:00 EDT</pubDate>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Month:                   July 2018<br/>
+	         Max Outside Temperature:    N/A at    N/A<br/>
+	         Min Outside Temperature:    N/A at    N/A<br/>
+	         Max Inside Temperature:     N/A at    N/A<br/>
+	         Min Inside Temperature:     N/A at    N/A<br/>
+	         Min Barometer:              N/A at    N/A<br/>
+	         Max Barometer:              N/A at    N/A<br/>
+             Max Wind :                  N/A from    N/A at    N/A<br/>
+             Rain total for month:       N/A<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Yearly Weather Summary as of 07/09/2018 12:40:00 AM</title>
+         <link>/year.html</link>
+         <description>
+	        Min outside temperature:    N/A at    N/A;
+         	Max outside temperature:    N/A at    N/A;
+	        Min inside temperature:     N/A at    N/A;
+	        Max inside temperature:     N/A at    N/A;
+	        Min barometer:              N/A at    N/A;
+	        Max barometer:              N/A at    N/A;
+            Max wind :                  N/A from    N/A at    N/A;
+            Rain total for year:        N/A
+         </description>
+         <pubDate>Mon, 09 Jul 2018 00:40:00 EDT</pubDate>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Year:                    2018<br/>
+	         Max Outside Temperature:    N/A at    N/A<br/>
+	         Min Outside Temperature:    N/A at    N/A<br/>
+	         Max Inside Temperature:     N/A at    N/A<br/>
+	         Min Inside Temperature:     N/A at    N/A<br/>
+	         Min Barometer:              N/A at    N/A<br/>
+	         Max Barometer:              N/A at    N/A<br/>
+             Max Wind :                  N/A from    N/A at    N/A<br/>
+             Rain total for year:        N/A<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+   </channel>
+</rss>
+
